@@ -1,0 +1,1 @@
+python detect.py --weights 'D:\Projects\yolov5\and.pt' --img 640 --conf 0.25 --source "C:\Users\Dell\Downloads\ik.mp4"
